@@ -1,0 +1,3 @@
+System operacyjny: Windows 11 pro
+Nazwy środowisk programistycznych: Visual Studio 2022, Visual Studio code
+Nazwy języków programowania: C#, HTML, CSS, JavaScript, React.js, React-Bootstrap, Bootstrap
